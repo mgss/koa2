@@ -1,0 +1,20 @@
+{
+  "name": "koa2",
+  "version": "1.0.0",
+  "description": "koa2 + Node.js Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mgss/koa2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mgss/koa2/issues"
+  },
+  "homepage": "https://github.com/mgss/koa2#readme"
+}
